@@ -35,7 +35,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/Praveen1116/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Praveen1116/Praveen1116/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
