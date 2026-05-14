@@ -7,9 +7,9 @@
 ---
 
 ### 🌱 About Me
-- 🌱 Exploring **AI, Web3 & DevOps**
+- 🌱 Exploring **AI/ML, DevOps and Cloud**
 - 💬 Ask me about **DSA, Web Development, Backend**
-- 📫 Reach me at: **yourmail@gmail.com**
+- 📫 Reach me at: **kpraveen1116@gmail.com**
 
 ---
 
