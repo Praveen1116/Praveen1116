@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Praveen Kumar Yadav]
+# 👋 Hi, from Me
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Praveen1116&show_icons=true&theme=radical)
