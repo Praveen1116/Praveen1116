@@ -13,3 +13,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveen1116&theme=radical)
 
 ![snake](https://github.com/Praveen1116/Praveen1116/blob/output/github-contribution-grid-snake.svg)
+
+## 🌟 3D Contribution Graph
+![](https://github-profile-3d-contrib.vercel.app/api?username=Praveen1116&theme=radical)
